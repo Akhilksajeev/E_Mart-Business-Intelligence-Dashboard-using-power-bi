@@ -1,4 +1,4 @@
-# E_Mart-Business-Intelligence-Dashboard-using-power-bi
+# E_Mart Sales Dashboard using Power bI
 
 ### Project Overview:
 The **E_Mart Business Intelligence Dashboard** is a comprehensive and interactive Power BI solution designed to provide valuable insights into sales, customer behavior, and product performance for E_Mart. This project leverages sales, customer, and product data to deliver a clear, actionable view of business performance, helping stakeholders make informed decisions.
